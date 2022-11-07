@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\TrabalhoPti\bin\Debug\net6.0\TrabalhoPti.exe
+C:\Users\pedro\source\repos\TrabalhoPti\bin\Debug\net6.0\TrabalhoPti.deps.json
+C:\Users\pedro\source\repos\TrabalhoPti\bin\Debug\net6.0\TrabalhoPti.runtimeconfig.json
+C:\Users\pedro\source\repos\TrabalhoPti\bin\Debug\net6.0\TrabalhoPti.dll
+C:\Users\pedro\source\repos\TrabalhoPti\bin\Debug\net6.0\TrabalhoPti.pdb
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.AssemblyInfo.cs
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.dll
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\refint\TrabalhoPti.dll
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.pdb
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\TrabalhoPti.genruntimeconfig.cache
+C:\Users\pedro\source\repos\TrabalhoPti\obj\Debug\net6.0\ref\TrabalhoPti.dll
